@@ -22,9 +22,9 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 
 | Area | Project | Skills / Tech | Repo |
 |------|---------|---------------|------|
-| AI Programming | Project 1 | Python, NumPy, Pandas | 🔗 [Amazon Reviews 2023 — Data Transformation & EDA (Python)](https://github.com/Nazgulbunny/ai-python-amazon-reviews-eda) |
-| AI Programming | Project 2 | Python, NumPy, Pandas, pytorch | 🔗 [SentimentScope – Transformer-Based Sentiment Analysis (From Scratch)](https://github.com/Nazgulbunny/sentimentscope-imdb-transformer)
-| Statistics for Data Analysis | Project 1 | Descriptive Statistics • Python • Pandas | 🔗[Sleep Health Dataset](https://github.com/Nazgulbunny/msc-ai-statistics-project-1-sleep-analysis)
+| AI Programming | Project 1 | Data Transformation & EDA | Python (Pandas, NumPy, Matplotlib) | 🔗 [Amazon Reviews 2023](https://github.com/Nazgulbunny/ai-python-amazon-reviews-eda) |
+| AI Programming | Project 2 | Transformer-Based Sentiment Analysis | Python • PyTorch • Transformers | 🔗 [SentimentScope – IMDB](https://github.com/Nazgulbunny/sentimentscope-imdb-transformer) |
+| Statistics for Data Analysis | Project 1 | Descriptive Statistical Analysis | Python (Pandas, NumPy, Matplotlib) | 🔗 [Sleep Health Dataset](https://github.com/Nazgulbunny/msc-ai-statistics-project-1-sleep-analysis) |
 | Statistics for Data Analysis | Project 2 | Descriptive Statistics • Python • Pandas | 🔗
 | Statistics for Data Analysis | Project 3 | Descriptive Statistics • Python • Pandas | 🔗
 
