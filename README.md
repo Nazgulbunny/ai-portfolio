@@ -24,7 +24,9 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 |------|---------|---------------|------|
 | AI Programming | Project 1 | Python, NumPy, Pandas | 🔗 [Amazon Reviews 2023 — Data Transformation & EDA (Python)](https://github.com/Nazgulbunny/ai-python-amazon-reviews-eda) |
 | AI Programming | Project 2 | Python, NumPy, Pandas, pytorch | 🔗 [SentimentScope – Transformer-Based Sentiment Analysis (From Scratch)](https://github.com/Nazgulbunny/sentimentscope-imdb-transformer)
-
+| Statistics for Data Analysis | Project 1 | Descriptive Statistics • Python • Pandas | 🔗[Sleep Health Dataset](https://github.com/Nazgulbunny/msc-ai-statistics-project-1-sleep-analysis)
+| Statistics for Data Analysis | Project 2 | Descriptive Statistics • Python • Pandas | 🔗
+| Statistics for Data Analysis | Project 3 | Descriptive Statistics • Python • Pandas | 🔗
 
 ---
 
