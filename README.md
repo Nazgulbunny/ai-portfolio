@@ -26,7 +26,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | AI Programming | Project 2 | Transformer-Based Sentiment Analysis | Python • PyTorch • Transformers | 🔗 [SentimentScope – IMDB](https://github.com/Nazgulbunny/sentimentscope-imdb-transformer) |
 | Statistics for Data Analysis | Project 1 | Descriptive Statistical Analysis | Python (Pandas, NumPy, Matplotlib) | 🔗 [Sleep Health Dataset](https://github.com/Nazgulbunny/msc-ai-statistics-project-1-sleep-analysis) |
 | Statistics for Data Analysis | Project 2 | Probability Analysis – Steph Curry Shot Dataset | Python (Pandas, NumPy, SciPy) | 🔗 [Steph Curry Shot Probabilities](https://github.com/Nazgulbunny/steph-curry-shot-probabilities) |
-| Statistics for Data Analysis | Project 3 | TBD | TBD | 🔗 |
+| Statistics for Data Analysis | Project 3 | A/B Testing & Hypothesis Testing (Conversion Optimization) | Python (Pandas, NumPy, Matplotlib) | 🔗 [A/B Test Results Project](https://github.com/Nazgulbunny/ab-test-results-project) |
 
 
 ---
