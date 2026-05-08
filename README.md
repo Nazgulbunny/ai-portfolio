@@ -27,6 +27,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | Statistics for Data Analysis | Project 1 | Descriptive Statistical Analysis | Python (Pandas, NumPy, Matplotlib) | 🔗 [Sleep Health Dataset](https://github.com/Nazgulbunny/msc-ai-statistics-project-1-sleep-analysis) |
 | Statistics for Data Analysis | Project 2 | Probability Analysis – Steph Curry Shot Dataset | Python (Pandas, NumPy, SciPy) | 🔗 [Steph Curry Shot Probabilities](https://github.com/Nazgulbunny/steph-curry-shot-probabilities) |
 | Statistics for Data Analysis | Project 3 | A/B Testing & Hypothesis Testing (Conversion Optimization) | Python (Pandas, NumPy, Matplotlib) | 🔗 [A/B Test Results Project](https://github.com/Nazgulbunny/ab-test-results-project) |
+| Statistics for Data Analysis | Project 4 | Salary Prediction with Multiple Linear Regression | Python (Pandas, NumPy, Matplotlib, Statsmodels) |	🔗 [Salary Prediction Linear Regression](https://github.com/Nazgulbunny/salary-prediction-linear-regression)
 
 
 ---
