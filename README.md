@@ -30,6 +30,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | Statistics for Data Analysis | Project 4 | Salary Prediction with Multiple Linear Regression | Python (Pandas, NumPy, Matplotlib, Statsmodels) |	🔗 [Salary Prediction Linear Regression](https://github.com/Nazgulbunny/salary-prediction-linear-regression)
 | Data Analyst | Project 1 | Investigate a Dataset – U.S. Firearm Background Checks & Demographic Analysis | Python (Pandas, NumPy, Matplotlib) | 🔗 [Udacity Investigate Dataset – Firearms Analysis](https://github.com/Nazgulbunny/udacity-investigate-dataset-firearms-analysis) |
 | Data Analyst | Project 2 | Real-World Data Wrangling – Population & Air Pollution Analysis | Python (Pandas, NumPy, Matplotlib, Data Wrangling) | 🔗 [Real-World Data Wrangling](https://github.com/Nazgulbunny/real-world-data-wrangling-air-pollution) |
+| Data Analyst | Project 3 | Data Visualization – Ford GoBike Usage Patterns & Rider Behavior Analysis | Python (Pandas, NumPy, Matplotlib, Seaborn, Data Visualization) | 🔗 [Ford GoBike Data Visualization](https://github.com/Nazgulbunny/ford-gobike-data-visualization) |
 
 
 ---
