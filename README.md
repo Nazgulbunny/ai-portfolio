@@ -31,6 +31,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | Data Analyst | Project 1 | Investigate a Dataset – U.S. Firearm Background Checks & Demographic Analysis | Python (Pandas, NumPy, Matplotlib) | 🔗 [Udacity Investigate Dataset – Firearms Analysis](https://github.com/Nazgulbunny/udacity-investigate-dataset-firearms-analysis) |
 | Data Analyst | Project 2 | Real-World Data Wrangling – Population & Air Pollution Analysis | Python (Pandas, NumPy, Matplotlib, Data Wrangling) | 🔗 [Real-World Data Wrangling](https://github.com/Nazgulbunny/real-world-data-wrangling-air-pollution) |
 | Data Analyst | Project 3 | Data Visualization – Ford GoBike Usage Patterns & Rider Behavior Analysis | Python (Pandas, NumPy, Matplotlib, Seaborn, Data Visualization) | 🔗 [Ford GoBike Data Visualization](https://github.com/Nazgulbunny/ford-gobike-data-visualization) |
+| Ethics in AI for AI Masters Program | Project | Fairness Analysis, Bias Mitigation & Model Interpretability – Personalized Budget Prediction | Python (AIF360, Scikit-learn, Pandas, NumPy, Matplotlib) | 🔗 [Responsible AI Budget Predictor](https://github.com/Nazgulbunny/responsible-ai-budget-predictor) |
 
 
 ---
