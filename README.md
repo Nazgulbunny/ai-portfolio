@@ -33,6 +33,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | Data Analyst | Project 3 | Data Visualization – Ford GoBike Usage Patterns & Rider Behavior Analysis | Python (Pandas, NumPy, Matplotlib, Seaborn, Data Visualization) | 🔗 [Ford GoBike Data Visualization](https://github.com/Nazgulbunny/ford-gobike-data-visualization) |
 | Ethics in AI for AI Masters Program | Project | Fairness Analysis, Bias Mitigation & Model Interpretability – Personalized Budget Prediction | Python (AIF360, Scikit-learn, Pandas, NumPy, Matplotlib) | 🔗 [Responsible AI Budget Predictor](https://github.com/Nazgulbunny/responsible-ai-budget-predictor) |
 | Introduction to Machine Learning with PyTorch | Project 1 | Supervised Learning – Income Classification, Model Evaluation, Hyperparameter Tuning & Feature Selection | Python (Scikit-learn, Pandas, NumPy, Matplotlib) | 🔗 [Finding Donors for CharityML](https://github.com/Nazgulbunny/finding-donors-charityml) |
+| Introduction to Machine Learning with PyTorch | Project 2 | CNN Image Classification — CIFAR-10 (85.04% Test Accuracy) | Python • PyTorch • Torchvision • NumPy • Matplotlib | 🔗 [CIFAR-10 Image Classifier](https://github.com/Nazgulbunny/cifar10-image-classifier-pytorch) |
 
 
 ---
