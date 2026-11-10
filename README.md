@@ -34,6 +34,7 @@ This portfolio highlights practical projects built to demonstrate real-world ski
 | Ethics in AI for AI Masters Program | Project | Fairness Analysis, Bias Mitigation & Model Interpretability – Personalized Budget Prediction | Python (AIF360, Scikit-learn, Pandas, NumPy, Matplotlib) | 🔗 [Responsible AI Budget Predictor](https://github.com/Nazgulbunny/responsible-ai-budget-predictor) |
 | Introduction to Machine Learning with PyTorch | Project 1 | Supervised Learning – Income Classification, Model Evaluation, Hyperparameter Tuning & Feature Selection | Python (Scikit-learn, Pandas, NumPy, Matplotlib) | 🔗 [Finding Donors for CharityML](https://github.com/Nazgulbunny/finding-donors-charityml) |
 | Introduction to Machine Learning with PyTorch | Project 2 | CNN Image Classification — CIFAR-10 (85.04% Test Accuracy) | Python • PyTorch • Torchvision • NumPy • Matplotlib | 🔗 [CIFAR-10 Image Classifier](https://github.com/Nazgulbunny/cifar10-image-classifier-pytorch) |
+| Introduction to Machine Learning with PyTorch | Project 3 | Unsupervised Learning – Customer Segmentation, Data Preprocessing, PCA & K-Means Clustering | Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn) | 🔗 [Arvato Customer Segmentation](https://github.com/Nazgulbunny/arvato-customer-segmentation) |
 
 
 ---
